@@ -4,23 +4,14 @@
 
 <style>
 	:global(body) {
-		background-color: #0f172a;
+		background-image: url(https://github.com/beladigital/marcika.exe/raw/main/marcika.png);
 	}
 
 </style>
 
 <svelte:head>
-	<title>Sveltest</title>
-	<meta name="description" content="Svelte test app" />
+	<title>Marcika Szentély</title>
+	<meta name="description" content="Marcika Szentély Rewrite" />
 </svelte:head>
 
-<section>
-	<div class="text-center text-xl font-bold select-none flex justify-center items-center h-screen">
-		<div>
-			<h1 class="text-[#ff3e00]">SvelteKit</h1>
-			<h1 class="text-[#38bdf8]">with TailwindCSS</h1>
-			<p class="text-white mt-10 text-sm">Compiled, with no Virtual-DOM and Server-Side rendering.</p>
-			<a class="text-gray-400 mt-1 text-sm hover:underline underline-offset-2" href="https://github.com/ubionexd/sveltest">Feel free to use it on your project!</a>
-		</div>
-	</div>
-</section>
+<h1 class="text-center text-9xl mt-[160px] font-semibold select-none">M A R C I K A</h1>
