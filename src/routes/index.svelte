@@ -4,7 +4,7 @@
 
 <style>
 	:global(body) {
-		background-image: url(static/marcika.png);
+		background-image: url(https://github.com/beladigital/marcika.exe/raw/main/marcika.png);
 	}
 
 </style>
