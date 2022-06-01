@@ -2,7 +2,7 @@ module.exports = {
   content: ['./src/**/*.{html,js,svelte,ts}'],
   theme: {
     extend: {
-       fontFamily {
+       fontFamily: {
           'poppins': ['Poppins 500', 'sans-serif'];
       },
     },
